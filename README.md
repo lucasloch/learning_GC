@@ -5,5 +5,7 @@ Repositório destinado às atividades executadas durante a disciplina de Computa
 ## Tecnologias
 
 > Python 3.x
+
 > Tkinter
+
 > Turtle graphics
