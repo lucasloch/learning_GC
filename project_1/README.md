@@ -6,3 +6,8 @@ Este projeto consiste na criação de uma GUI, utilizando o módulo **Tkinter**,
 <p align="center">
   <img src="https://github.com/lucasloch/learning_GC/blob/main/project_1/img/img.png" height="300" width="400"/>
 </p>
+
+## Tecnologias
+> Tkinter
+
+> Turtle Graphics
