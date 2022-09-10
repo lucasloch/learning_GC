@@ -4,7 +4,7 @@ Este projeto consiste em realizar as diferentes transformações geométricas em
 
 ## Resultado Final
 <p align="center">
-  <img src="https://github.com/lucasloch/learning_GC/blob/main/project_2/img/img.png" height="300" width="400"/>
+  <img src="https://github.com/lucasloch/learning_GC/blob/main/project_2/img/img.png" height="600" width="800"/>
 </p>
 
 ## Tecnologias
