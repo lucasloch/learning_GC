@@ -8,6 +8,5 @@ Este projeto consiste em realizar as diferentes transformações geométricas em
 </p>
 
 ## Tecnologias
-> Matplotlib
-
-> Numpy
+* Matplotlib
+* Numpy
