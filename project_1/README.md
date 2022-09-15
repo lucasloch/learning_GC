@@ -8,6 +8,5 @@ Este projeto consiste na criação de uma GUI, utilizando o módulo **Tkinter**,
 </p>
 
 ## Tecnologias
-> Tkinter
-
-> Turtle Graphics
+* Tkinter
+* Turtle Graphics
